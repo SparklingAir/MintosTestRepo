@@ -1,0 +1,10 @@
+Pods/
+DerivedData
+.DS_Store
+xcuserdata/
+TectoniumCleaner.xcodeproj/xcuserdata/
+xcshareddata/
+.build/
+*.generated.swift
+*.xcworkspace
+*.xcworkspacedata
